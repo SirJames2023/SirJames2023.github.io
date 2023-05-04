@@ -8,6 +8,11 @@
 - lang: fr
   img: https://cdn.countryflags.com/thumbs/france/flag-400.png
   text: French
+  
+   lang: ru
+  img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
+  text: Russian
+
 
 - lang: zh-CN
   img: https://cdn.countryflags.com/thumbs/china/flag-400.png
